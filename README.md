@@ -1,3 +1,5 @@
+<img src="https://thumbs2.imgbox.com/50/cf/XUyPgtP3_t.png" alt="Print of Project" >
+
 # First Project With Tailwind CSS (Start of a Landing Page):
 
 > Status: Version 1.0.0
